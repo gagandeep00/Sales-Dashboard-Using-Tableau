@@ -13,4 +13,4 @@ Insights generated:
 
 ## Dashboard
 
-![Dashboard](Dashboard-sales.png)
+![Dashboard](sales-dashboard.png)
